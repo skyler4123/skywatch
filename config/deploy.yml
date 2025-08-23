@@ -92,7 +92,7 @@ ssh:
   user: ubuntu
   # port: 22
   # proxy: "ubuntu@54.234.110.247"
-  keys: [ "~/Documents/aws/key_pair_01.bem" ]
+  keys: [ "~/Documents/aws/key_pair_01.pem" ]
 
 # Use accessory services (secrets come from .kamal/secrets).
 # accessories:
